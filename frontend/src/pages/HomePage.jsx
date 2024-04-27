@@ -18,7 +18,6 @@ const HomePage = () => {
       <Globals />
       <Exchanges simplified />
       <Cryptocurrencies simplified />
-      <News simplified />
     </main>
   );
 };

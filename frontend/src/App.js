@@ -22,7 +22,6 @@ function App() {
           <Route path="/" element={<HomePage />} />
           <Route path="/currencies" element={<CurrenciesPage />} />
           <Route path="/exchanges" element={<ExchangesPage />} />
-          <Route path="/news" element={<NewsPage />} />
           <Route path="/register" element={<RegisterPage />} />
           <Route path="/login" element={<LoginPage />} />
           <Route path="/crypto/:coinId" element={<CryptoDetailsPage />} />
